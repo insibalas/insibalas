@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @insibalas
-- 👀 I’m interested in application monitoring and support
-- 🌱 I’m currently learning CI
+- 👀 I’m interested in Data science and ML
+- 🌱 I’m currently learning ML
 
 
 <!---
