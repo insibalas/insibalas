@@ -1,4 +1,4 @@
-👋 Hi there! I'm Sivashankar, a passionate data science learner. Currently pursuing [MTech at BITS, Pillani.
+👋 Hi there! I'm Sivashankar, a passionate data science learner. Currently pursuing MTech at BITS, Pillani.
 
 🔍 Exploring the fascinating world of data science and machine learning, I'm keen on applying analytical skills to derive meaningful insights. My interests span from natural language processing to computer vision.
 
